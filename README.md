@@ -1,7 +1,7 @@
 
 # fr-br_school
 
-Tutorial: Introduction to python for data science - a hands on perspective
+Participação no II French-Brezil School 2017
 
 ### Requirements:
 
@@ -26,3 +26,7 @@ Tutorial: Introduction to python for data science - a hands on perspective
     - Uber API, Pandas, Choropleth maps
 - UFRN Open Data initiative
 - Connected Vehicles
+
+---
+
+Evento : http://fr-br-school.ifrn.edu.br/
